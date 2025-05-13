@@ -98,11 +98,3 @@ Mostly relevant for when you're transpiling with `tsc`. If you want to change th
 ### Framework-Specific Options
 
 I don't yet cover framework-specific options, like `vite`, `next`, `remix`, etc. With enough persuasion, I might add them in the future.
-
-## Why Not Use `@tsconfig/bases`?
-
-The [`@tsconfig/bases`](https://github.com/tsconfig/bases) package is a great resource for TypeScript configurations. However, I disagree with the idea that there is a single "recommended" configuration that works for everyone.
-
-Also, I wanted a set of `tsconfig.json` files that I controlled so I could use them to keep my [Total TypeScript Course Repos](https://github.com/rowinbot) up to date.
-
-If you're looking for a great TypeScript course, check out [Total TypeScript](https://www.totaltypescript.com/).
